@@ -1,6 +1,6 @@
 # LP — Diagnóstico de Projeto (Contabilidade) · Lughy
 
-Landing page estática de captação de leads para a campanha **"Diagnóstico de Projeto"** da Lughy (software house do DB1 Group), no nicho **Contabilidade**. Oferta: análise técnica gratuita (viabilidade, recomendação de MVP, riscos, premissas e faixa de investimento) antes de o escritório investir no desenvolvimento de um sistema contábil.
+Landing page estática de captação de leads para a campanha **"Diagnóstico de Projeto"** da Lughy (software house do DB1 Group), no nicho **Contabilidade**. Oferta: análise técnica (viabilidade, recomendação de MVP, riscos, premissas e faixa de investimento) antes de o escritório investir no desenvolvimento de um sistema contábil.
 
 Feita a partir do template Lughy (mesma stack, integração RD Station e GTM), adaptada para a **versão CLARA** do brand guide. Sem framework: apenas HTML, CSS e JavaScript vanilla + Google Fonts (Lexend).
 
